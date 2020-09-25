@@ -5,6 +5,7 @@ on:
       - "Formula/alsa-lib.rb"
       - "Formula/ladspa-sdk.rb"
       - "Formula/libseccomp.rb"
+      - "Formula/fontconfig.rb"
 jobs:
   tests_linux:
     runs-on: ubuntu-latest

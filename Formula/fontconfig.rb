@@ -4,6 +4,7 @@ class Fontconfig < Formula
   url "https://www.freedesktop.org/software/fontconfig/release/fontconfig-2.13.1.tar.bz2"
   sha256 "f655dd2a986d7aa97e052261b36aa67b0a64989496361eca8d604e6414006741"
   license "MIT"
+  revision 1
 
   livecheck do
     url :stable
